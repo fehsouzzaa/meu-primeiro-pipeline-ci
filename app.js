@@ -18,7 +18,7 @@ function calcular(a, b, operacao) {
 
         case 'soma':
 
-            return a - b; // Bug intencional!
+            return a + b; // Bug intencional!
 
         case 'subtracao':
 
